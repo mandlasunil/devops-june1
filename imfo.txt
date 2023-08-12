@@ -2,3 +2,4 @@ aws achetecture
 java
 notejs
 devops
+python
